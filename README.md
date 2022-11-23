@@ -36,7 +36,7 @@
 3. 下载源代码，更新 feeds 并选择配置
 
    ```bash
-   git clone https://github.com/coolsnowwolf/lede
+   git clone https://github.com/kanshudeshanzhu/mt2500
    cd mt2500
    ./scripts/feeds update -a
    ./scripts/feeds install -a
