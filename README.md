@@ -37,7 +37,7 @@
 
    ```bash
    git clone https://github.com/coolsnowwolf/lede
-   cd lede
+   cd mt2500
    ./scripts/feeds update -a
    ./scripts/feeds install -a
    make menuconfig
